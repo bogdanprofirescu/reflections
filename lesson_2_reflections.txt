@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Bp: a hidden folder is created by GIT and GIT is ready to receive the "commited"
+files
