@@ -24,3 +24,7 @@ How would branches help?
 
 BP: with brasnches one could make/test other versions of the project, and later merge versions
 from different branches if the case
+
+How do the diagrams help you visualize the branch structure? 
+
+BP: all branches and nodes that are outside branches are visible
