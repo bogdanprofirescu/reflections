@@ -18,3 +18,9 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 BP: by adding the modified files of respective change in the staging area and
 commiting afterwards.
+
+What are some situations when branches would be helpful in keeping your history organized? 
+How would branches help?
+
+BP: with brasnches one could make/test other versions of the project, and later merge versions
+from different branches if the case
