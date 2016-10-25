@@ -1,4 +1,15 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-Bp: a hidden folder is created by GIT and GIT is ready to receive the "commited"
+BP: a hidden folder is created by GIT and GIT is ready to receive the "commited"
 files
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+BP: Staging area is an intermediate "space" before the repository, it allows the
+files to be temporarely stored there before commiting them, allowing to make
+modifications (add-remove files) before commiting.
+
+In case of complex projects with a multitude of files it might be usefull.
+
+working dierectory is the phisical location of the folder where the files are.
