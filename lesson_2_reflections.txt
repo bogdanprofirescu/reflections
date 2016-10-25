@@ -13,3 +13,8 @@ modifications (add-remove files) before commiting.
 In case of complex projects with a multitude of files it might be usefull.
 
 working dierectory is the phisical location of the folder where the files are.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+BP: by adding the modified files of respective change in the staging area and
+commiting afterwards.
