@@ -33,3 +33,8 @@ What is the result of merging two branches together? Why do we represent it
 in the diagram the way we do?
 
 BP: the result is asingle branch and the last node is a single merged file
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+BP: auto merge saves time but cannot cover all cases; manual merge is needed when
+auto cannot determine how to perform the merge;
