@@ -17,3 +17,7 @@ BP:
 * clone makes a copy the online github repository on the local computer
 * branches allows working on a number of features while other team members work on other features;
 leter the branches can be combined
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+BP: the copy can be kept unaltered?
