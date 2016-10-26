@@ -8,3 +8,12 @@ stay up-to-date with your remote repository?
 
 BP: This approach keeps the local files in a consistent order, 
 no surprise files can appear unknowinglly, due to work of other team members, I guess...
+
+Describe the differences between forks, clones, and branches. When would you use one 
+instead of another?
+
+BP: 
+* forks is used when one wants to continue the work of others without changing their original work;
+* clone makes a copy the online github repository on the local computer
+* branches allows working on a number of features while other team members work on other features;
+leter the branches can be combined
